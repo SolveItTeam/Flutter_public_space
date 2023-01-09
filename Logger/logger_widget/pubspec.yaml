@@ -1,0 +1,13 @@
+name: logger_widget
+description: SolveIt flutter logger widget
+version: 0.0.1
+homepage: https://github.com/SolveItTeam/Flutter_Space/tree/main/Logger
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  logger: ^1.1.0
+  flutter:
+    sdk: flutter
